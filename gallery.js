@@ -52,7 +52,7 @@ let interval2;
 
 // Emaul Msg
 const msg = `Below Lies A Reward For Your Interest and Support\n
-https://www.billinbenjis.com/discount/NEWYEARNEWGEAR`
+https://www.billinbenjis.com`
 
 console.log(msg);
 
